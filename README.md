@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ## Usage
 Run the Streamlit app using:
 ```sh
-streamlit run app.py
+streamlit run main.py
 ```
 
 Replace `app.py` with the actual file name if different.
