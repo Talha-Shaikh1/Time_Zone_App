@@ -13,8 +13,8 @@ This is a simple Streamlit app that allows users to:
 
 ### 1. Clone the repository
 ```sh
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone https://github.com/Talha-Shaikh1/Time_Zone_App.git
+cd Time_Zone_App
 ```
 
 ### 2. Create and activate virtual environment
